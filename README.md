@@ -2,9 +2,7 @@
 - 👀 I’m interested in Software Development and Videogame Development
 - 🌱 I’m currently learning Web Development as an CS College Student and Self Thought GameDev
 - 💞️ I’m looking to collaborate on Web projects, Documentation translation from english to spanish and Gamedev
-- 📫 How to reach me 
-
-🔵 Twitter: @Chatan_Rios
+- 📫 How to reach me, via twitter or email
 
 
 
