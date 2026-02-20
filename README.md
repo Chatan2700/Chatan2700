@@ -1,5 +1,41 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building cloud-native full-stack applications with React, Node.js, and AWS.<br><br>Focused on:<br><br>Secure authentication (JWT, Cognito, RBAC)<br><br>Scalable REST APIs<br><br>Clean frontend architecture with React + TypeScript<br><br>Deploying production-ready systems to AWS (EC2, S3, CloudFormation)<br><br>👯 I’m looking to collaborate on<br><br>Full-stack SaaS applications<br><br>React + TypeScript platforms with strong backend integration<br><br>Authentication & authorization systems<br><br>Cloud-deployed web platforms<br><br>Developer tooling & productivity systems<br><br>🤝 I’m looking for help with<br><br>Distributed system design<br><br>Production-grade DevOps workflows<br><br>Observability & monitoring strategies<br><br>Scaling backend services beyond MVP<br><br>Frontend architecture for large-scale apps<br><br>🌱 I’m currently learning<br><br>Advanced AWS architecture & multi-account environments<br><br>Infrastructure as Code at scale<br><br>Event-driven backend systems<br><br>Performance optimization (Node.js & React)<br><br>TypeScript for large codebases<br><br>CI/CD automation
+# 💫 About Me
+
+## 🔭 I’m currently working on
+Building **cloud-native full-stack applications** with React, Node.js, and AWS.
+
+**Focused on:**
+- Secure authentication (JWT, Cognito, RBAC)
+- Scalable REST APIs
+- Clean frontend architecture with React + TypeScript
+- Deploying production-ready systems to AWS (EC2, S3, CloudFormation)
+
+---
+
+## 👯 I’m looking to collaborate on
+- Full-stack SaaS applications  
+- React + TypeScript platforms with strong backend integration  
+- Authentication & authorization systems  
+- Cloud-deployed web platforms  
+- Developer tooling & productivity systems  
+
+---
+
+## 🤝 I’m looking for help with
+- Distributed system design  
+- Production-grade DevOps workflows  
+- Observability & monitoring strategies  
+- Scaling backend services beyond MVP  
+- Frontend architecture for large-scale apps  
+
+---
+
+## 🌱 I’m currently learning
+- Advanced AWS architecture & multi-account environments  
+- Infrastructure as Code at scale  
+- Event-driven backend systems  
+- Performance optimization (Node.js & React)  
+- TypeScript for large codebases  
+- CI/CD automation  
 
 
 ## 🌐 Socials:
